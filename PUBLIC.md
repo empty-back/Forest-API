@@ -1,12 +1,14 @@
 # 页面公共部分索引
 1.  左侧地区列表
+
     * 简要描述：
     地图左侧所有地区列表
     * 请求URL：
     http://xx.com/api/public/region
     * 请求方式：
     POST
-    * 参数：<table>
+    * 参数：
+    <table>
        <thead>
            <th>参数</th>
            <th>必选</th>
@@ -28,5 +30,6 @@
          </tr>
        </tbody>
     </table>
+    
 1.  顶部导航列表
     
