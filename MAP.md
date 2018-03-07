@@ -28,10 +28,10 @@
 1.  地图-车辆定位
 
     * 简要描述：
-    地图中车辆数据
+    地图中车辆数据
     * 请求URL：
-    http://xx.com/api/map/gps
-    * 请求方式：
+    http://xx.com/api/map/gps
+    * 请求方式：
     POST
     * 参数：<br /><br /><table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>uid</td><td>必选</td><td>string</td><td>用户id</td></tr></tbody></table>
     * 返回示例：<br /><br /><pre><code>{
