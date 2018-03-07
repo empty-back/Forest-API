@@ -52,4 +52,4 @@
 	     {name: '京N ML2351',local:[116.416342,39.844948], value: 90}
     ]
   }</code></pre>
-     * 返回参数说明：<br /><br /><table><thead><th>参数</th><th>类型</th><th>说明</th></thead><tbody><tr><td>name</td><td>string</td><td>车牌号</td></tr><tr><td>local</td><td>array</td><td>车辆坐标</td></tr><tr><td>value</td><td>int</td><td>车辆图标大小</td></tr></tbody></table><br />
+     * 返回参数说明：<br /><br /><table><thead><th>参数</th><th>类型</th><th>说明</th></thead><tbody><tr><td>name</td><td>string</td><td>车牌号</td></tr><tr><td>local</td><td>array</td><td>车辆坐标</td></tr><tr><td>value</td><td>int</td><td>车辆图标大小</td></tr></tbody></table><br />
