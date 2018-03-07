@@ -2,9 +2,9 @@
 1.  地图-摄像头(基站)
 
     * 简要描述：
-    地图中摄像头数据
+    地图中摄像头数据
     * 请求URL：
-    http://xx.com/api/map/camera
+    http://xx.com/api/map/camera
     * 请求方式：
     POST
     * 参数：<br /><br /><table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>uid</td><td>必选</td><td>string</td><td>用户id</td></tr></tbody></table>
