@@ -6,8 +6,7 @@
     http://xx.com/api/public/region
     * 请求方式：
     POST
-    * 参数：
-    <table>
+    * 参数：<table>
        <thead>
            <th>参数</th>
            <th>必选</th>
