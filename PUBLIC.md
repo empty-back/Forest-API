@@ -9,6 +9,22 @@
     POST
     * 参数：<br /><br />
     <table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>uid</td><td>必选</td><td>char</td><td>用户id</td></tr><tr><td>token</td><td>必选</td><td></td><td>用户token</td></tr></tbody></table>
+    * 返回示例：
+    <pre>
+      <code>
+  {
+    "error_code": 0,
+    "data": {
+      "uid": "1",
+      "username": "12154545",
+      "name": "吴系挂",
+      "groupid": 2 ,
+      "reg_time": "1436864169",
+      "last_login_time": "0",
+    }
+  }
+      </code>
+    </pre>
     
 1.  顶部导航列表
     
