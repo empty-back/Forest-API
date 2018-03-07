@@ -4,9 +4,9 @@
     地图左侧所有地区列表
     *   请求URL：
     http://xx.com/api/public/region
-    *请求方式：
+    * 请求方式：
     POST
-    *参数：
+    * 参数：
     <table>
        <thead>
            <th>参数</th>
