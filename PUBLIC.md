@@ -7,7 +7,7 @@
     http://xx.com/api/public/region
     * 请求方式：
     POST
-    * 参数：<br /><br /><table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>username</td><td>必选</td><td>string</td><td>用户名</td></tr><tr><td>password</td><td>必选</td><td>string</td><td>密码</td></tr></tbody></table>
+    * 参数：<br /><br /><table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>username</td><td>必选</td><td>string</td><td>用户名</td></tr><tr><td>password</td><td>必选</td><td>string</td><td>密码</td></tr></tbody></table>
     * 返回示例：<br /><br /><pre><code>{
     "error_code": 0,
     "data": {
@@ -23,8 +23,9 @@
     
 1.  顶部导航列表
     * 简要描述：
-    所有页面顶部导航菜单
+    所有页面顶部导航菜单
     * 请求URL：
-    http://xx.com/api/public/menu
+    http://xx.com/api/public/menu
     * 请求方式：
     POST
+    * 参数：<br /><br /><table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>username</td><td>必选</td><td>string</td><td>用户名</td></tr><tr><td>password</td><td>必选</td><td>string</td><td>密码</td></tr></tbody></table>
