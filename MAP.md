@@ -57,10 +57,10 @@
 1.  地图-无人机
 
     * 简要描述：
-    地图中无人机数据
+    地图中无人机数据
     * 请求URL：
     http://xx.com/api/map/unmannedPlane
-    * 请求方式：
+    * 请求方式：
     POST
     * 参数：<br /><br /><table><thead><th>参数</th><th>必选</th><th>类型</th><th>说明</th></thead><tbody><tr><td>uid</td><td>必选</td><td>string</td><td>用户id</td></tr></tbody></table>
     * 返回示例：<br /><br /><pre><code>{
@@ -69,4 +69,4 @@
 	    [{name:"驿马图牧场",local:[115.107629,41.162113]},{name: '椰树沟自然景区',local: [116.176397,41.491492],value:95,type:"wrj",video:"img/video.mp4",wrjStatus:"OK",groupSpeed: 120,vaerticalSpeed: 12,altitude:2,gpsFix:"No fix"}]
     ]
   }</code></pre>
-     * 返回参数说明：<br /><br /><table><thead><th>参数</th><th>类型</th><th>说明</th></thead><tbody><tr><td>name</td><td>string</td><td>无人机名称</td></tr><tr><td>local</td><td>array</td><td>无人机坐标(数组第一个local为起始坐标第二个为结束坐标)</td></tr><tr><td>type</td><td>string</td><td>设备类型</td></tr><tr><td>video</td><td>string</td><td>无人机画面</td></tr><tr><td>wrjStatus</td><td>string</td><td>无人机状态</td></tr><tr><td>groupSpeed</td><td>string</td><td>无人机水平速度</td></tr><tr><td>vaerticalSpeed</td><td>string</td><td>无人机垂直速度</td></tr><tr><td>altitude</td><td>string</td><td>无人机海拔</td></tr><tr><td>gpsFix</td><td>string</td><td>是否开启无人机定位</td></tr></tbody></table><br />
+    * 返回参数说明：<br /><br /><table><thead><th>参数</th><th>类型</th><th>说明</th></thead><tbody><tr><td>name</td><td>string</td><td>无人机名称</td></tr><tr><td>local</td><td>array</td><td>无人机坐标(数组第一个local为起始坐标第二个为结束坐标)</td></tr><tr><td>type</td><td>string</td><td>设备类型</td></tr><tr><td>video</td><td>string</td><td>无人机画面</td></tr><tr><td>wrjStatus</td><td>string</td><td>无人机状态</td></tr><tr><td>groupSpeed</td><td>string</td><td>无人机水平速度</td></tr><tr><td>vaerticalSpeed</td><td>string</td><td>无人机垂直速度</td></tr><tr><td>altitude</td><td>string</td><td>无人机海拔</td></tr><tr><td>gpsFix</td><td>string</td><td>是否开启无人机定位</td></tr></tbody></table><br />
